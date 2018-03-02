@@ -1,4 +1,6 @@
 #EXTM3U
+group,PERU, PERUANOS
+
 #EXTINF:-1 tvg-logo="https://goo.gl/KgNwX7" ,ATV HD
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b331072.m3u8
@@ -8,6 +10,7 @@ http://bit.ly/ATV-TvNinjaxD?Peru.m3u8
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, AMERICA | SD
+http://186.101.238.114:9002/play/a04q/index.m3u8
 #EXTINF:-1, TV PERU| SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1, TV PERU| HD
@@ -42,6 +45,9 @@ http://bit.ly/Monterrico-TvNinjaxD?Peru.m3u8
 #EXTINF:-1, IPE TV | SD
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, PANAMERICANA | SD
+http://186.101.238.114:9002/play/a04r/index.m3u8
 https://dmlive.vo.llnwd.net/27/dm/3/x18w5up/live-2.m3u8
 #EXTINF:0,BHTV PERU (Villa EL Salvador/Lima/PERU)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,Frecuencia Latina 
+http://186.101.238.114:9002/play/a04p/index.m3u8
