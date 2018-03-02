@@ -332,28 +332,10 @@ http://fiderf77mr.llave2.tk/hb0hd_sub-q6.php
 http://51.15.144.38:3222/play/a04n/index.m3u8
 #EXTINF:0,VIDEOXXX1
 #EXTGRP:Adultos
-
-
-
-
-
-
 #EXTINF:0,VIDEOXXX2
 #EXTGRP:Adultos
-Video Player
-Media error: Format(s) not supported or source(s) not found
-
-mejs.download-file: http://iptvnation.com/porn/video.mp4?_=8
-0:00
-0:00
 #EXTINF:0,VIDEOXXX3
 #EXTGRP:Adultos
-Video Player
-Media error: Format(s) not supported or source(s) not found
-
-mejs.download-file: http://iptvnation.com/porn/video.mp4?_=9
-0:00
-0:00
 #EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png", Visit X TV
 #EXTGRP:Adultos
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
@@ -380,7 +362,7 @@ http://iksolutions3.ddns.net/iptv/rusia2.php?id=274
 #EXTINF:0, Bein2
 http://iksolutions3.ddns.net/iptv/rusia2.php?id=275
 #EXTINF:0, BeinÑ SPORTS
-http://p4.giffy.be:8080/live/test12345/test12345/32294.m3u8
+
 #EXTINF:0, Deportes 2
 http://iksolutions3.ddns.net/iptv/rusia2.php?id=276
 #EXTINF:0, DEPOR2
@@ -391,7 +373,7 @@ http://iksolutions3.ddns.net/iptv/rusia2.php?id=410
 http://iksolutions3.ddns.net/iptv/rusia2.php?id=409
 #EXTINF:-1, ESPAÑA
 #EXTINF:0 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistar-estrenos.jpg?ssl=1&w=450" group-title="España", Movistar Estrenos
-http://xxedge163.livesports.pw/live/vermovestraeca32711bd5c7f55513/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/movistar-estrenos.jpg?ssl=1&w=450" group-title="España", Movistar Estrenos
 #EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
 http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/32.ts
@@ -411,11 +393,11 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/inde
 #EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
 http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/3.ts
 #EXTINF:0 tvg-logo="http://puu.sh/v4x28/40d2ba772c.png" group-title="España", DCINE Español
-http://xxedge166.livesports.pw/live/verdCINEn472ab4996ac0193b/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
 http://petoo9.pedromo.online/live/plusseries/index.m3u8
 #EXTINF:0 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
-http://xxedge166.livesports.pw/live/movistarseries/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="http://vercanalestv.com/imagenes/movistar-series-xtra.jpg" group-title="España", Movistar Series Xtra
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/index.m3u8
 #EXTINF:0 tvg-logo="http://vercanalestv.com/imagenes/movistar-series-xtra.jpg" group-title="España", Movistar Series Xtra
@@ -470,11 +452,11 @@ http://a.watcha.live/ch4/stream.m3u8
 #EXTINF:-1,Telefe
 http://a.watcha.live/ch6/stream.m3u8
 #EXTINF:-1, BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
 #EXTINF:-1, Capital TV
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 #EXTINF:-1, CTC TV Cusco
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
 #EXTINF:-1, Digital TV Peru
 http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1, ATV
@@ -488,11 +470,11 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, IPE
 https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+
 #EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
 #EXTINF:-1, CLARO SPORTS
-http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
 #EXTINF:-1, CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1, CABLEONDA SPORTS
