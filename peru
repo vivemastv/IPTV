@@ -1,6 +1,4 @@
 #EXTM3U
-group,PERU, PERUANOS
-
 #EXTINF:-1 tvg-logo="https://goo.gl/KgNwX7" ,ATV HD
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b331072.m3u8
@@ -10,7 +8,6 @@ http://bit.ly/ATV-TvNinjaxD?Peru.m3u8
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, AMERICA | SD
-
 #EXTINF:-1, TV PERU| SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1, TV PERU| HD
