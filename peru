@@ -10,7 +10,7 @@ http://bit.ly/ATV-TvNinjaxD?Peru.m3u8
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, AMERICA | SD
-http://186.101.238.114:9002/play/a04q/index.m3u8
+http://5.9.120.70:8088/stream/fulltvhd2/playlist.m3u8?id=19629&wowzasessionid=3839463826&pk=6775950d8756da13c11f8fc13068c093e03aabb4c574a0ad519ec3f03eb56a95
 #EXTINF:-1, TV PERU| SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1, TV PERU| HD
@@ -21,7 +21,7 @@ http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
 #EXTINF:-1, RPP TV| SD
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
 https://www.cloudflare.com/video/marketing-video/video_0_1200000_hls.m3u8
 #EXTINF:-1, TOP LATINO| SD
@@ -45,9 +45,11 @@ http://bit.ly/Monterrico-TvNinjaxD?Peru.m3u8
 #EXTINF:-1, IPE TV | SD
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, PANAMERICANA | SD
-http://186.101.238.114:9002/play/a04r/index.m3u8
-https://dmlive.vo.llnwd.net/27/dm/3/x18w5up/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/23/dm/3/x18w5up/live-2.m3u8
+
 #EXTINF:0,BHTV PERU (Villa EL Salvador/Lima/PERU)
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
 #EXTINF:-1,Frecuencia Latina 
-http://186.101.238.114:9002/play/a04p/index.m3u8
+http://5.9.148.102:8088/stream/fulltvhd3/playlist.m3u8?id=19630&wowzasessionid=09382432&pk=6775950d8756da13c11f8fc13068c093e03aabb4c574a0ad519ec3f03eb56a95
+#EXTINF:-1, WILLAX
+https://secure-playlist.livestream.com/streams/26619010_7987650_lsivogzyouwtgwjpldg_1/media/26619010_7987650_lsivogzyouwtgwjpldg_1@2756000p.m3u8?dw=14400&token=1520207322_516c29023b40da8ab1266215a8f58e92d82da186&ts=1520031600
