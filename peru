@@ -1,6 +1,4 @@
 #EXTM3U
-group,PERU, PERUANOS
-
 #EXTINF:-1 tvg-logo="https://goo.gl/KgNwX7" ,ATV HD
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b331072.m3u8
