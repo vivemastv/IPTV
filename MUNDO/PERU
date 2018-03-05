@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", America Television|SD|
 http://5.9.120.70:8088/stream/fulltvhd2/playlist.m3u8?id=19629&wowzasessionid=3839463826&pk=6775950d8756da13c11f8fc13068c093e03aabb4c574a0ad519ec3f03eb56a95
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", ATV|HD|
@@ -16,6 +17,8 @@ http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&reb
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", TOP LATINO|SD|
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", RBC|SD|
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", MEGA|SD|
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", VIA|SD|
