@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,FOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+#EXTINF:-1,AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1,AMC HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+#EXTINF:-1,FOX LIFE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:-1,AXN WHITE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1,ATRESERIES HD
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/577/index.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1,BEIN SPORTS LALIGA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1,MOVISTAR FORMULA 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1,MOVISTAR GOLF HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-1,CUATRO HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
+#EXTINF:-1,TELECINCO
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/617/index.m3u8
+#EXTINF:-1,TELECINCO HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/618/index.m3u8
+#EXTINF:-1,#0
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,IBERALIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8
+#EXTINF:-1,TOROS TV
+http://188.165.13.95:8080/26/index.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1,MEZZO
+http://188.165.13.95:8080/111/index.m3u8                      
+#EXTINF:-1,Movistar F1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8                                      
+#EXTINF:-1,Movistar MotoGP Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
