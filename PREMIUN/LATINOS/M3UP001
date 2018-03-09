@@ -1,228 +1,228 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TNT HD|SD|
-http://ragnaroktv.com/live_hlss/kr/TNT_HD/M7QwMjIzNDA0NgAA/tnt.m3u8
+http://ragnaroktv.com/livee_hls/kr/TNT_HD/tnt.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", Studio Universal|SD|
-http://ragnaroktv.com/live_hlss/kr/STUDIO_UNIVERSAL/M7QwMjIzNDA0NgAA/stdio_univ.m3u8
+http://ragnaroktv.com/livee_hls/kr/STUDIO_UNIVERSAL/stdio_univ.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", Space HD|SD|
-http://ragnaroktv.com/live_hlss/kr/SPACE_HD/M7QwMjIzNDA0NgAA/space.m3u8
+http://ragnaroktv.com/livee_hls/kr/SPACE_HD/space.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", AMC HD|SD|
-http://ragnaroktv.com/live_hlss/kr/AMC_HD/M7QwMjIzNDA0NgAA/amc.m3u8
+http://ragnaroktv.com/livee_hls/kr/AMC_HD/amc.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CINEMAX|SD|
-http://ragnaroktv.com/live_hlss/kr/CINEMAX/M7QwMjIzNDA0NgAA/c1nemax.m3u8
+http://ragnaroktv.com/livee_hls/kr/CINEMAX/c1nemax.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", GOLDEN HD|SD|
-http://ragnaroktv.com/live_hlss/kr/GOLDEN_HD/M7QwMjIzNDA0NgAA/golden.m3u8
+http://ragnaroktv.com/livee_hls/kr/GOLDEN_HD/golden.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", MULTIPREMIER|SD|
-http://ragnaroktv.com/live_hlss/kr/MULTIPREMIER/M7QwMjIzNDA0NgAA/multipremier.m3u8
+http://ragnaroktv.com/livee_hls/kr/MULTIPREMIER/multipremier.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CINE LATINO|SD|
-http://ragnaroktv.com/live_hlss/kr/CINELATINO/M7QwMjIzNDA0NgAA/cinelatino.m3u8
+http://ragnaroktv.com/livee_hls/kr/CINELATINO/cinelatino.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CINECANAL HD|SD|
-http://ragnaroktv.com/live_hlss/kr/CINECANAL_HD/M7QwMjIzNDA0NgAA/cinecanal.m3u8
+http://ragnaroktv.com/livee_hls/kr/CINECANAL_HD/cinecanal.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CINEMA DINAMITA|SD|
-http://ragnaroktv.com/live_hlss/kr/CINEMA_DINAMITA/M7QwMjIzNDA0NgAA/cinema_dinamita.m3u8
+http://ragnaroktv.com/livee_hls/kr/CINEMA_DINAMITA/cinema_dinamita.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", PARAMOUNT HD|SD|
-http://ragnaroktv.com/live_hlss/kr/PARAMOUNT_HD/M7QwMjIzNDA0NgAA/param.m3u8
+http://ragnaroktv.com/livee_hls/kr/PARAMOUNT_HD/param.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TBS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/TBS_HD/M7QwMjIzNDA0NgAA/tbs.m3u8
+http://ragnaroktv.com/livee_hls/kr/TBS_HD/tbs.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", EURO CHANNEL|SD|
-http://ragnaroktv.com/live_hlss/kr/EUROCHANNEL/M7QwMjIzNDA0NgAA/eurochannel.m3u8
+http://ragnaroktv.com/livee_hls/kr/EUROCHANNEL/eurochannel.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DEPELICULA|SD|
-http://ragnaroktv.com/live_hlss/kr/DEPELICULA/M7QwMjIzNDA0NgAA/depelicula.m3u8
+http://ragnaroktv.com/livee_hls/kr/DEPELICULA/depelicula.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ISAT|SD|
-http://ragnaroktv.com/live_hlss/kr/ISAT/M7QwMjIzNDA0NgAA/isat.m3u8
+http://ragnaroktv.com/livee_hls/kr/ISAT/isat.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TCM|SD|
-http://ragnaroktv.com/live_hlss/kr/TCM/M7QwMjIzNDA0NgAA/tcm.m3u8
+http://ragnaroktv.com/livee_hls/kr/TCM/tcm.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX SPORTS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_SPORTS_HD/M7QwMjIzNDA0NgAA/foxsports.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_SPORTS_HD/foxsports.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX SPORTS2 HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_SPORTS2_HD/M7QwMjIzNDA0NgAA/foxsports2.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_SPORTS2_HD/foxsports2.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX SPORTS3 HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_SPORTS3_HD/M7QwMjIzNDA0NgAA/foxsports3.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_SPORTS3_HD/foxsports3.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", WIN SPORTS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/WINSPORTS_HD/M7QwMjIzNDA0NgAA/winsports.m3u8
+http://ragnaroktv.com/livee_hls/kr/WINSPORTS_HD/winsports.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CLARO SPORTS Colombia|SD|
-http://ragnaroktv.com/live_hlss/kr/CLARO_SPORTS_COL_HD/M7QwMjIzNDA0NgAA/clspoco.m3u8
+http://ragnaroktv.com/livee_hls/kr/CLARO_SPORTS_COL_HD/clspoco.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ESPN HD|SD|
-http://ragnaroktv.com/live_hlss/kr/ESPN_HD/M7QwMjIzNDA0NgAA/espn.m3u8
+http://ragnaroktv.com/livee_hls/kr/ESPN_HD/espn.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ESPN 2 HD|SD|
-http://ragnaroktv.com/live_hlss/kr/ESPN_2_HD/M7QwMjIzNDA0NgAA/espn2.m3u8
+http://ragnaroktv.com/livee_hls/kr/ESPN_2_HD/espn2.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ESPN 3 HD|SD|
-http://ragnaroktv.com/live_hlss/kr/ESPN_3_HD/M7QwMjIzNDA0NgAA/espn3_kr.m3u8
+http://ragnaroktv.com/livee_hls/kr/ESPN_3_HD/espn3_kr.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ESPN + HD|SD|
-http://ragnaroktv.com/live_hlss/kr/ESPN_PLUS_HD/M7QwMjIzNDA0NgAA/espn_plus.m3u8
+http://ragnaroktv.com/livee_hls/kr/ESPN_PLUS_HD/espn_plus.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", GOLF CHANNEL HD|SD|
-http://ragnaroktv.com/live_hlss/kr/GOLF_CHANNEL_HD/M7QwMjIzNDA0NgAA/golfchannel.m3u8
+http://ragnaroktv.com/livee_hls/kr/GOLF_CHANNEL_HD/golfchannel.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", WARNER HD|SD|
-http://ragnaroktv.com/live_hlss/kr/WARNER_HD/M7QwMjIzNDA0NgAA/warner.m3u8
+http://ragnaroktv.com/livee_hls/kr/WARNER_HD/warner.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", AXN HD|SD|
-http://ragnaroktv.com/live_hlss/kr/AXN_HD/M7QwMjIzNDA0NgAA/axn.m3u8
+http://ragnaroktv.com/livee_hls/kr/AXN_HD/axn.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", SONY HD|SD|
-http://ragnaroktv.com/live_hlss/kr/SONY_HD/M7QwMjIzNDA0NgAA/sony.m3u8
+http://ragnaroktv.com/livee_hls/kr/SONY_HD/sony.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_HD/M7QwMjIzNDA0NgAA/f0x.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_HD/f0x.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", UNIVERSAL CHANNEL|SD|
-http://ragnaroktv.com/live_hlss/kr/UNIVERSAL_CHANNEL/M7QwMjIzNDA0NgAA/univers.m3u8
+http://ragnaroktv.com/livee_hls/kr/UNIVERSAL_CHANNEL/univers.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FX HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FX_HD/M7QwMjIzNDA0NgAA/fx.m3u8
+http://ragnaroktv.com/livee_hls/kr/FX_HD/fx.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX LIFE HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_LIFE_HD/M7QwMjIzNDA0NgAA/f0xlife.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_LIFE_HD/f0xlife.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TNT SERIES HD|SD|
-http://ragnaroktv.com/live_hlss/kr/TNT_SERIES_HD/M7QwMjIzNDA0NgAA/tnt_ser.m3u8
+http://ragnaroktv.com/livee_hls/kr/TNT_SERIES_HD/tnt_ser.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", COMEDY CENTRAL HD|SD|
-http://ragnaroktv.com/live_hlss/kr/COMEDY_CENTRAL_HD/M7QwMjIzNDA0NgAA/cc.m3u8
+http://ragnaroktv.com/livee_hls/kr/COMEDY_CENTRAL_HD/cc.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TRU TV HD|SD|
-http://ragnaroktv.com/live_hlss/kr/TRU_TV_HD/M7QwMjIzNDA0NgAA/trutv_hd.m3u8
+http://ragnaroktv.com/livee_hls/kr/TRU_TV_HD/trutv_hd.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ID_HD|SD|
-http://ragnaroktv.com/live_hlss/kr/ID_HD/M7QwMjIzNDA0NgAA/idhd.m3u8
+http://ragnaroktv.com/livee_hls/kr/ID_HD/idhd.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", MTV HD|SD|
-http://ragnaroktv.com/live_hlss/kr/MTV_HD/M7QwMjIzNDA0NgAA/mtvhd.m3u8
+http://ragnaroktv.com/livee_hls/kr/MTV_HD/mtvhd.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", MTV_LIVE_HD|SD|
-http://ragnaroktv.com/live_hlss/kr/MTV_LIVE_HD/M7QwMjIzNDA0NgAA/mtvl1ve.m3u8
+http://ragnaroktv.com/livee_hls/kr/MTV_LIVE_HD/mtvl1ve.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", VH1|SD|
-http://ragnaroktv.com/live_hlss/kr/VH1/M7QwMjIzNDA0NgAA/vh1.m3u8
+http://ragnaroktv.com/livee_hls/kr/VH1/vh1.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", VH1 HD|SD|
-http://ragnaroktv.com/live_hlss/kr/VH1_HD/M7QwMjIzNDA0NgAA/vh1hd.m3u8
+http://ragnaroktv.com/livee_hls/kr/VH1_HD/vh1hd.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", VH1 CLASSIC|SD|
-http://ragnaroktv.com/live_hlss/kr/VH1_CLASSIC/M7QwMjIzNDA0NgAA/vh1class.m3u8
+http://ragnaroktv.com/livee_hls/kr/VH1_CLASSIC/vh1class.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", MTV HITS|SD|
-http://ragnaroktv.com/live_hlss/kr/MTV_HITS/M7QwMjIzNDA0NgAA/mtvh.m3u8
+http://ragnaroktv.com/livee_hls/kr/MTV_HITS/mtvh.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY KIDS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_KIDS_HD/M7QwMjIzNDA0NgAA/disc_kids.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_KIDS_HD/disc_kids.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISNEY XD|SD|
-http://ragnaroktv.com/live_hlss/kr/DISNEY_XD/M7QwMjIzNDA0NgAA/d1sneyxd.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISNEY_XD/d1sneyxd.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CARTOON NETWORK HD|SD|
-http://ragnaroktv.com/live_hlss/kr/CARTOON_NETWORK_HD/M7QwMjIzNDA0NgAA/cart_net.m3u8
+http://ragnaroktv.com/livee_hls/kr/CARTOON_NETWORK_HD/cart_net.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISNEY HD|SD|
-http://ragnaroktv.com/live_hlss/kr/DISNEY_HD/M7QwMjIzNDA0NgAA/d1sney.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISNEY_HD/d1sney.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISNEY JR|SD|
-http://ragnaroktv.com/live_hlss/kr/DISNEY_JR/M7QwMjIzNDA0NgAA/d1sneyjr.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISNEY_JR/d1sneyjr.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", NICKELODEON HD|SD|
-http://ragnaroktv.com/live_hlss/kr/NICKELODEON_HD/M7QwMjIzNDA0NgAA/nick.m3u8
+http://ragnaroktv.com/livee_hls/kr/NICKELODEON_HD/nick.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", BOOMERANG|SD|
-http://ragnaroktv.com/live_hlss/kr/BOOMERANG/M7QwMjIzNDA0NgAA/boomerang.m3u8
+http://ragnaroktv.com/livee_hls/kr/BOOMERANG/boomerang.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TOONCAST|SD|
-http://ragnaroktv.com/live_hlss/kr/TOONCAST/M7QwMjIzNDA0NgAA/tooncast.m3u8
+http://ragnaroktv.com/livee_hls/kr/TOONCAST/tooncast.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", NATGEO KIDS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/NATGEO_KIDS_HD/M7QwMjIzNDA0NgAA/natgeo_kids.m3u8
+http://ragnaroktv.com/livee_hls/kr/NATGEO_KIDS_HD/natgeo_kids.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", NICK 2 HD|SD|
-http://ragnaroktv.com/live_hlss/kr/NICK_2_HD/M7QwMjIzNDA0NgAA/nick2.m3u8
+http://ragnaroktv.com/livee_hls/kr/NICK_2_HD/nick2.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CABLENOTICIAS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/CABLENOTICIAS_HD/M7QwMjIzNDA0NgAA/cablenoticias.m3u8
+http://ragnaroktv.com/livee_hls/kr/CABLENOTICIAS_HD/cablenoticias.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CNN ESPANOL|SD|
-http://ragnaroktv.com/live_hlss/kr/CNN_ESPANOL/M7QwMjIzNDA0NgAA/cnnee.m3u8
+http://ragnaroktv.com/livee_hls/kr/CNN_ESPANOL/cnnee.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY HOME HEALTH HD|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_HOME_HEALTH_HD/M7QwMjIzNDA0NgAA/disc_hh.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_HOME_HEALTH_HD/disc_hh.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", GOURMET HD|SD|
-http://ragnaroktv.com/live_hlss/kr/GOURMET_HD/M7QwMjIzNDA0NgAA/elgourmet.m3u8
+http://ragnaroktv.com/livee_hls/kr/GOURMET_HD/elgourmet.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", E ENTERTAINMET|SD|
-http://ragnaroktv.com/live_hlss/kr/E/M7QwMjIzNDA0NgAA/e_ent.m3u8
+http://ragnaroktv.com/livee_hls/kr/E/e_ent.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ESTRELLAS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/CANAL_DE_LAS_ESTRELLAS/M7QwMjIzNDA0NgAA/estrellas_latam.m3u8
+http://ragnaroktv.com/livee_hls/kr/CANAL_DE_LAS_ESTRELLAS/estrellas_latam.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", RCN TELENOVELAS|SD|
-http://ragnaroktv.com/live_hlss/kr/RCN_TELENOVELAS/M7QwMjIzNDA0NgAA/rcn_tln.m3u8
+http://ragnaroktv.com/livee_hls/kr/RCN_TELENOVELAS/rcn_tln.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TELEMUNDO|SD|
-http://ragnaroktv.com/live_hlss/kr/TELEMUNDO/M7QwMjIzNDA0NgAA/telemun_int.m3u8
+http://ragnaroktv.com/livee_hls/kr/TELEMUNDO/telemun_int.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", UNICABLE|SD|
-http://ragnaroktv.com/live_hlss/kr/UNICABLE/M7QwMjIzNDA0NgAA/unicable.m3u8
+http://ragnaroktv.com/livee_hls/kr/UNICABLE/unicable.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", VEPLUS TV|SD|
-http://ragnaroktv.com/live_hlss/kr/VEPLUSTV/M7QwMjIzNDA0NgAA/veplus.m3u8
+http://ragnaroktv.com/livee_hls/kr/VEPLUSTV/veplus.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", PASIONES HD|SD|
-http://ragnaroktv.com/live_hlss/kr/PASIONES_HD/M7QwMjIzNDA0NgAA/pasiones.m3u8
+http://ragnaroktv.com/livee_hls/kr/PASIONES_HD/pasiones.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", AZMUNDO HD|SD|
-http://ragnaroktv.com/live_hlss/kr/AZMUNDO_HD/M7QwMjIzNDA0NgAA/azmundo.m3u8
+http://ragnaroktv.com/livee_hls/kr/AZMUNDO_HD/azmundo.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", AZCORAZON HD|SD|
-http://ragnaroktv.com/live_hlss/kr/AZCORAZON_HD/M7QwMjIzNDA0NgAA/azcorazon.m3u8
+http://ragnaroktv.com/livee_hls/kr/AZCORAZON_HD/azcorazon.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TVE|SD|
-http://ragnaroktv.com/live_hlss/kr/TVE/M7QwMjIzNDA0NgAA/tve.m3u8
+http://ragnaroktv.com/livee_hls/kr/TVE/tve.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", RAI|SD|
-http://ragnaroktv.com/live_hlss/kr/RAI/M7QwMjIzNDA0NgAA/rai.m3u8
+http://ragnaroktv.com/livee_hls/kr/RAI/rai.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TV5|SD|
-http://ragnaroktv.com/live_hlss/kr/TV5/M7QwMjIzNDA0NgAA/tv5.m3u8
+http://ragnaroktv.com/livee_hls/kr/TV5/tv5.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DW|SD|
-http://ragnaroktv.com/live_hlss/kr/DW/M7QwMjIzNDA0NgAA/dw.m3u8
+http://ragnaroktv.com/livee_hls/kr/DW/dw.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ANTENA3|SD|
-http://ragnaroktv.com/live_hlss/kr/ANTENA3/M7QwMjIzNDA0NgAA/antena3.m3u8
+http://ragnaroktv.com/livee_hls/kr/ANTENA3/antena3.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CARACOL HD|SD|
-http://ragnaroktv.com/live_hlss/kr/CARACOL_INT/M7QwMjIzNDA0NgAA/caracol_int.m3u8
+http://ragnaroktv.com/livee_hls/kr/CARACOL_INT/caracol_int.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY WORLD HD|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_WORLD_HD/M7QwMjIzNDA0NgAA/world.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_WORLD_HD/world.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY CHANNEL HD|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_CHANNEL_HD/M7QwMjIzNDA0NgAA/discovery_channel_hd.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_CHANNEL_HD/discovery_channel_hd.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY THEATER HD|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_THEATER_HD/M7QwMjIzNDA0NgAA/theater.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_THEATER_HD/theater.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY CIVILIZATION|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_CIVILIZATION/M7QwMjIzNDA0NgAA/disc_civil.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_CIVILIZATION/disc_civil.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY SCIENCE|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_SCIENCE/M7QwMjIzNDA0NgAA/disc_science.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_SCIENCE/disc_science.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", ANIMAL PLANET HD|SD|
-http://ragnaroktv.com/live_hlss/kr/ANIMAL_PLANET_HD/M7QwMjIzNDA0NgAA/anim_planet.m3u8
+http://ragnaroktv.com/livee_hls/kr/ANIMAL_PLANET_HD/anim_planet.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", HISTORY CHANNEL HD|SD|
-http://ragnaroktv.com/live_hlss/kr/HISTORY_CHANNEL_HD/M7QwMjIzNDA0NgAA/history.m3u8
+http://ragnaroktv.com/livee_hls/kr/HISTORY_CHANNEL_HD/history.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", H2|SD|
-http://ragnaroktv.com/live_hlss/kr/H2/M7QwMjIzNDA0NgAA/h2.m3u8
+http://ragnaroktv.com/livee_hls/kr/H2/h2.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", NATGEO HD|SD|
-http://ragnaroktv.com/live_hlss/kr/NATGEO_HD/M7QwMjIzNDA0NgAA/natgeo.m3u8
+http://ragnaroktv.com/livee_hls/kr/NATGEO_HD/natgeo.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DISCOVERY TURBO|SD|
-http://ragnaroktv.com/live_hlss/kr/DISCOVERY_TURBO/M7QwMjIzNDA0NgAA/disc_turbo.m3u8
+http://ragnaroktv.com/livee_hls/kr/DISCOVERY_TURBO/disc_turbo.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", TLC HD|SD|
-http://ragnaroktv.com/live_hlss/kr/TLC_HD/M7QwMjIzNDA0NgAA/tlc.m3u8
+http://ragnaroktv.com/livee_hls/kr/TLC_HD/tlc.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CANAL UNO HD|SD|
-http://ragnaroktv.com/live_hlss/kr/CANAL_UNO_HD/M7QwMjIzNDA0NgAA/uno.m3u8
+http://ragnaroktv.com/livee_hls/kr/CANAL_UNO_HD/uno.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CITY TV|SD|
-http://ragnaroktv.com/live_hlss/kr/CITY_TV/M7QwMjIzNDA0NgAA/citytv.m3u8
+http://ragnaroktv.com/livee_hls/kr/CITY_TV/citytv.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", CONCERT CHANNEL HD|SD|
-http://ragnaroktv.com/live_hlss/kr/CONCERT_CHANNEL_HD/M7QwMjIzNDA0NgAA/concert.m3u8
+http://ragnaroktv.com/livee_hls/kr/CONCERT_CHANNEL_HD/concert.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", HOLA TV HD|SD|
-http://ragnaroktv.com/live_hlss/kr/HOLA_TV_HD/M7QwMjIzNDA0NgAA/hola.m3u8
+http://ragnaroktv.com/livee_hls/kr/HOLA_TV_HD/hola.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", SUNDANCE HD|SD|
-http://ragnaroktv.com/live_hlss/kr/SUNDANCE_HD/M7QwMjIzNDA0NgAA/sundance.m3u8
+http://ragnaroktv.com/livee_hls/kr/SUNDANCE_HD/sundance.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", DHE HD|SD|
-http://ragnaroktv.com/live_hlss/kr/DHE_HD/M7QwMjIzNDA0NgAA/dhe.m3u8
+http://ragnaroktv.com/livee_hls/kr/DHE_HD/dhe.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", HBO HD SUB|SD|
-http://ragnaroktv.com/live_hlss/kr/HBO_HD_SUB/M7QwMjIzNDA0NgAA/hbohd_sub.m3u8
+http://ragnaroktv.com/livee_hls/kr/HBO_HD_SUB/hbohd_sub.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", HBO 2 HD|SD|
-http://ragnaroktv.com/live_hlss/kr/HBO_2_HD/M7QwMjIzNDA0NgAA/hb02.m3u8
+http://ragnaroktv.com/livee_hls/kr/HBO_2_HD/hb02.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", HBO FAMILY HD|SD|
-http://ragnaroktv.com/live_hlss/kr/HBO_FAMILY_HD/M7QwMjIzNDA0NgAA/hb0fam.m3u8
+http://ragnaroktv.com/livee_hls/kr/HBO_FAMILY_HD/hb0fam.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", HBO PLUS HD|SD|
-http://ragnaroktv.com/live_hlss/kr/HBO_PLUS_HD/M7QwMjIzNDA0NgAA/hboplus.m3u8
+http://ragnaroktv.com/livee_hls/kr/HBO_PLUS_HD/hboplus.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", HBO SIGNATURE HD|SD|
-http://ragnaroktv.com/live_hlss/kr/HBO_SIGNATURE_HD/M7QwMjIzNDA0NgAA/hbosign.m3u8
+http://ragnaroktv.com/livee_hls/kr/HBO_SIGNATURE_HD/hbosign.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", MAX PRIME HD|SD|
-http://ragnaroktv.com/live_hlss/kr/MAX_PRIME_HD/M7QwMjIzNDA0NgAA/m4x_prime.m3u8
+http://ragnaroktv.com/livee_hls/kr/MAX_PRIME_HD/m4x_prime.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", MAX UP HD|SD|
-http://ragnaroktv.com/live_hlss/kr/MAX_UP_HD/M7QwMjIzNDA0NgAA/m4xup.m3u8
+http://ragnaroktv.com/livee_hls/kr/MAX_UP_HD/m4xup.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX CINEMA HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_CINEMA_HD_SUB/M7QwMjIzNDA0NgAA/f0x_cinema_sub.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_CINEMA_HD_SUB/f0x_cinema_sub.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX ACTION MX|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_ACTION_MEXICO_HD/M7QwMjIzNDA0NgAA/fox_action_mx.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_ACTION_MEXICO_HD/fox_action_mx.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOXACTION HD|SD|
-http://ragnaroktv.com/live_hlss/kr/FOXACTION_HD/M7QwMjIzNDA0NgAA/foxaction.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOXACTION_HD/foxaction.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOXMOVIES HD|HD|
-http://ragnaroktv.com/live_hlss/kr/FOXMOVIES_HD/M7QwMjIzNDA0NgAA/f0x_movies.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOXMOVIES_HD/f0x_movies.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX CLASSICS HD|HD|
-http://ragnaroktv.com/live_hlss/kr/FOX_CLASSICS_HD/M7QwMjIzNDA0NgAA/f0x_classics.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_CLASSICS_HD/f0x_classics.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX COMEDY HD|HD|
-http://ragnaroktv.com/live_hlss/kr/FOX_COMEDY_HD/M7QwMjIzNDA0NgAA/f0x_comedy.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_COMEDY_HD/f0x_comedy.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOXFAMILY HD|HD|
-http://ragnaroktv.com/live_hlss/kr/FOXFAMILY_HD/M7QwMjIzNDA0NgAA/f0x_family.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOXFAMILY_HD/f0x_family.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", FOX Sports 2 MX HD|HD|
-http://ragnaroktv.com/live_hlss/kr/FOXSP2_MX_HD/M7QwMjIzNDA0NgAA/f0xsports2mx.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOXSP2_MX_HD/f0xsports2mx.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", Fox Sports MX HD|HD|
-http://ragnaroktv.com/live_hlss/kr/FOXSP1_MX_HD/M7QwMjIzNDA0NgAA/f0xsportsmx.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOXSP1_MX_HD/f0xsportsmx.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", Nat geo KIDS MX|HD|
-http://ragnaroktv.com/live_hlss/kr/NATGEOKIDS_MX_HD/M7QwMjIzNDA0NgAA/natgeo_kids_mx.m3u8
+http://ragnaroktv.com/livee_hls/kr/NATGEOKIDS_MX_HD/natgeo_kids_mx.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", NatGeo MX HD|HD|
-http://ragnaroktv.com/live_hlss/kr/NATGEO_MX_HD/M7QwMjIzNDA0NgAA/natgeo_mx.m3u8
+http://ragnaroktv.com/livee_hls/kr/NATGEO_MX_HD/natgeo_mx.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", The Film Zone|HD|
-http://ragnaroktv.com/live_hlss/kr/THE_FILM_ZONE_HD/M7QwMjIzNDA0NgAA/fxm.m3u8
+http://ragnaroktv.com/livee_hls/kr/THE_FILM_ZONE_HD/fxm.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", AE HD|HD|
-http://ragnaroktv.com/live_hlss/kr/AE_MUNDO_HD/M7QwMjIzNDA0NgAA/aehd.m3u8
+http://ragnaroktv.com/livee_hls/kr/AE_MUNDO_HD/aehd.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", Caracol|HD|
-http://ragnaroktv.com/live_hlss/kr/CARACOL_HD/M7QwMjIzNDA0NgAA/caracol.m3u8
+http://ragnaroktv.com/livee_hls/kr/CARACOL_HD/caracol.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", GOLDEN PREMIER HD|HD|
-http://ragnaroktv.com/live_hlss/kr/GOLDEN_PREMIER_HD/M7QwMjIzNDA0NgAA/goldp.m3u8
+http://ragnaroktv.com/livee_hls/kr/GOLDEN_PREMIER_HD/goldp.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", Fox Cinema|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX_CINEMA_HD/M7QwMjIzNDA0NgAA/f0x_cinema.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX_CINEMA_HD/f0x_cinema.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|GLOB", Fox Series|SD|
-http://ragnaroktv.com/live_hlss/kr/FOX1_HD/M7QwMjIzNDA0NgAA/f0x_series.m3u8
+http://ragnaroktv.com/livee_hls/kr/FOX1_HD/f0x_series.m3u8
