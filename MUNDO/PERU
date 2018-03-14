@@ -1,10 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", America Television|SD|
-http://5.9.120.70:8088/stream/fulltvhd2/playlist.m3u8?id=19629&wowzasessionid=3839463826&pk=6775950d8756da13c11f8fc13068c093e03aabb4c574a0ad519ec3f03eb56a95
+http://megatv.live:80/live/MegaTest/MegaTV/6.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", ATV|HD|
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
+http://megatv.live:80/live/MegaTest/MegaTV/7.ts
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|PERU", Canal N|SD|
+http://megatv.live:80/live/MegaTest/MegaTV/19.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Latina.|SD|
-http://5.9.148.102:8088/stream/fulltvhd3/playlist.m3u8?id=19630&wowzasessionid=09382432&pk=6775950d8756da13c11f8fc13068c093e03aabb4c574a0ad519ec3f03eb56a95
+http://megatv.live:80/live/MegaTest/MegaTV/18.ts
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|PERU", Movistar Deportes|SD|
+http://megatv.live:80/live/MegaTest/MegaTV/201.ts
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Movistar Plus|SD|
+http://megatv.live:80/live/MegaTest/MegaTV/202.ts
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Panamericana|SD|
+http://megatv.live:80/live/MegaTest/MegaTV/17.ts
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Peru Magico.|SD|
+http://megatv.live:80/live/MegaTest/MegaTV/16.ts
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", GOL PERU|SD|
+http://megatv.live:80/live/MegaTest/MegaTV/198.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", TVPE|HD|
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", ATV|SD|
