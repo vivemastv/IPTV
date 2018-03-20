@@ -65,3 +65,66 @@ http://188.165.13.95:8080/111/index.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8                                      
 #EXTINF:-1,Movistar MotoGP Opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#####premier
+#EXTINF:-1 group-title="Premier", Premier
+https://cdn.peliculas.pw/nIfFh
+
+######HBO########
+#EXTINF:-1 group-title="HBO GO", HBO
+http://smartfree.ml/?id=1&f=.m3u8
+#EXTINF:-1 group-title="HBO GO", HBO 2
+http://smartfree.ml/?id=2&f=.m3u8
+#EXTINF:-1 group-title="HBO GO", HBO Family
+http://smartfree.ml/?id=3&f=.m3u8
+#EXTINF:-1 group-title="HBO GO", HBO Plus
+http://smartfree.ml/?id=4&f=.m3u8
+#EXTINF:-1 group-title="HBO GO", MaxPrime
+http://smartfree.ml/?id=5&f=.m3u8
+#EXTINF:-1 group-title="HBO GO", MaxUp
+http://smartfree.ml/?id=6&f=.m3u8
+####FOXSSSS######
+#EXTINF:-1 group-title="FOX PREM", Fox
+http://smartfree.ml/?id=7&f=.m3u8
+#EXTINF:-1 group-title="FOX PREM", Fox1 HD
+http://smartfree.ml/?id=8&f=.m3u8
+#EXTINF:-1 group-title="FOX PREM", Fox Action
+http://smartfree.ml/?id=9&f=.m3u8
+#EXTINF:-1 group-title="FOX PREM", Fox Cinema
+http://smartfree.ml/?id=10&f=.m3u8
+#EXTINF:-1 group-title="FOX PREM", Fox Classics
+http://smartfree.ml/?id=11&f=.m3u8
+#EXTINF:-1 group-title="FOX PREM", Fox Family
+http://smartfree.ml/?id=12&f=.m3u8
+#EXTINF:-1 group-title="FOX PREM", Fox Life
+http://smartfree.ml/?id=13&f=.m3u8
+#EXTINF:-1 group-title="FOX PREM", Fox Movies
+http://smartfree.ml/?id=14&f=.m3u8
+#####Taquilla######
+#EXTINF:-1 group-title="TAQUILLA", Taquilla 1
+http://smartfree.ml/?id=101&f=.m3u8
+#EXTINF:-1 group-title="TAQUILLA", Taquilla 2
+http://smartfree.ml/?id=102&f=.m3u8
+#EXTINF:-1 group-title="TAQUILLA", Taquilla 3
+http://smartfree.ml/?id=103&f=.m3u8
+#EXTINF:-1 group-title="TAQUILLA", Taquilla 4
+http://smartfree.ml/?id=104&f=.m3u8
+#EXTINF:-1 group-title="TAQUILLA", Taquilla 5
+http://smartfree.ml/?id=105&f=.m3u8
+#####DEPORTES - PROXIMAMENTE######
+#EXTINF:-1 group-title="DEPORTES", Fox Sports Premium
+http://smartfree.ml/?id=200&f=.m3u8
+#####DISCOVERY######
+#EXTINF:-1 group-title="DISCOVERY", Discovery Channel
+http://smartfree.ml/?id=50&f=.m3u8
+#EXTINF:-1 group-title="DISCOVERY", Discovery Civilization
+http://smartfree.ml/?id=51&f=.m3u8
+#EXTINF:-1 group-title="DISCOVERY", Discovery H&H
+http://smartfree.ml/?id=52&f=.m3u8
+#EXTINF:-1 group-title="DISCOVERY", Discovery SCI
+http://smartfree.ml/?id=54&f=.m3u8
+#EXTINF:-1 group-title="DISCOVERY", Discovery Theater HD
+http://smartfree.ml/?id=55&f=.m3u8
+#EXTINF:-1 group-title="DISCOVERY", Discovery Turbo
+http://smartfree.ml/?id=56&f=.m3u8
+
+
