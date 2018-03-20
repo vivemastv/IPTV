@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", America Television|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/6.ts
+http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", ATV|HD|
 http://megatv.live:80/live/MegaTest/MegaTV/7.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|PERU", Canal N|SD|
