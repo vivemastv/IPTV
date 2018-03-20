@@ -1,24 +1,15 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", America Television|SD|
 http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
-#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", ATV|HD|
-http://megatv.live:80/live/MegaTest/MegaTV/7.ts
-#EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|PERU", Canal N|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/19.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Latina.|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/18.ts
-#EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|PERU", Movistar Deportes|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/201.ts
-#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Movistar Plus|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/202.ts
+http://photocall.tv/latina.php/.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Panamericana|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/17.ts
-#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Peru Magico.|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/16.ts
-#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", GOL PERU|SD|
-http://megatv.live:80/live/MegaTest/MegaTV/198.ts
+http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", TVPE|HD|
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", BHTV|SD|
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", ATV|SD|
 http://bit.ly/ATV-TvNinjaxD?Peru.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", IPE|SD|
