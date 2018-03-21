@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,Artear HD
+http://200.89.190.163/live/live/ArtearHD/SA_Live/ArtearHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
+#EXTINF:-1,AMC HD
+http://200.89.190.163/live/live/AMCHD/SA_Live/AMCHD-audio_AACL_eng_144800_51=144800-video=3900000.m3u8
+#EXTINF:-1,TyCSport HD
+http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
+#EXTINF:-1,latino MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-p.m3u8
+#EXTINF:-1,latino NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_3_av-b.m3u8
+#EXTINF:-1,latino 24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1,latino Sevilla F.C. TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
+#EXTINF:-1,latino Neox
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/index_4_av-p.m3u8
+#EXTINF:-1,latino Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1,latino La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,Holvoet
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/playlist.m3u8
+#EXTINF:-1,Holvoet
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream2/playlist.m3u8
+#EXTINF:-1,Holvoet
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/playlist.m3u8
+#EXTINF:-1,Campus TV(U. de Talca)
+http://unlimited1-cl.dps.live:80/campustv/campustv.smil/campustv/livestream2/playlist.m3u8
+#EXTINF:-1,Holvoet TV (Atacama)
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1,Desierto de Atacama TV | HD | Atacama
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1,Ocho TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1,Canal 4 Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1,Azteca 1
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1,Azteca 7 A
+http://aztecahls2-lh.akamaihd.net:80/i/aztecahls2_1@455692/index_1_av-p.m3u8
+#EXTINF:-1,Efekto TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/360p/playlist.m3u8
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:-1,Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+#EXTINF:-1,Ecotel Tv
+https://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:-1,ECUAVISA
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
