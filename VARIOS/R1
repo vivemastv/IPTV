@@ -53,3 +53,161 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
 https://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1,ECUAVISA
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+#EXTINF:-1,BYU TV INTERNACIONAL
+https://byubhls-i.akamaihd.net/hls/live/267281/byutvintspan/master_1664.m3u8
+#EXTINF:-1,Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,FDF Telecinco
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,BE MAD
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/index_0300_av-b.m3u8
+#EXTINF:-1,BR Event 1
+http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8
+#EXTINF:-1,BR Event 2
+http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/master.m3u8
+#EXTINF:-1,BR Event 3
+http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/master.m3u8
+#EXTINF:-1,BR Event 4
+http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/master.m3u8
+#EXTINF:-1,RBB Event
+http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/master.m3u8
+#EXTINF:-1,HR Event 1
+http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
+#EXTINF:-1,HR Event 2
+http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+#EXTINF:-1,SWR Event 1
+http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/master.m3u8
+#EXTINF:-1,SWR Event 2
+http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/master.m3u8
+#EXTINF:-1,SKY DE BR Event 1
+http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
+#EXTINF:-1,SKY DE BR Event 2
+http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
+#EXTINF:-1,SKY DE BR Event 3
+http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
+#EXTINF:-1,SKY DE BR Event 4
+http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-p.m3u8
+#EXTINF:-1,SKY DE RBB Event 1
+http://rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/index_2692_av-p.m3u8
+#EXTINF:-1,SKY DE RBB Event 2
+https://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/index_2692_av-p.m3u8
+#EXTINF:-1,SKY DE ServusTV HD (AT)
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
+#EXTINF:-1,SKY DE TeleZüri HD
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
+#EXTINF:-1,SKY DE TeleBärn HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+#EXTINF:-1,SKY DE Tele M1 HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1,SKY DE Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1,SKY DE JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+#EXTINF:-1,SWR HD
+http://swrbw-lh.akamaihd.net:80/i/swrbw_live@196738/index_3584_av-p.m3u8
+#EXTINF:-1,Tagesschau 24 HD
+http://tagesschau-lh.akamaihd.net:80/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1,JOIZ
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
+#EXTINF:-1,3SAT de
+https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
+#EXTINF:-1,SKY DE SWR Rheinland-Pfalz HD
+http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/index_3584_av-p.m3u8
+#EXTINF:-1,SKY DE NDR Niedersachsen HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8
+#EXTINF:-1,SKY DE NDR Schleswig-Holstein HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
+#EXTINF:-1,SKY DE NDR Mecklenburg-Vorpommern HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
+#EXTINF:-1,SKY DE NDR Hamburg HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+#EXTINF:-1,London live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,M2O Music
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,MEGA HD
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1,MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1,Neox HD
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8
+#EXTINF:-1,NOVA HD
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1,A3SERIES HD
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1,English: ANTENA 3 HD
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Spanish: Mega Tv – HD – ESP
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1,English: Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8
+#EXTINF:-1,Spanish: Neox – HD – ESP
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8
+#EXTINF:-1,English: Neox HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_4_av-b.m3u8
+#EXTINF:-1,N/A
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,N/A
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,ESPANA NOVA HD
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_3_av-b.m3u8
+#EXTINF:-1,ESPANA- A3S TV
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_3_av-b.m3u8
+#EXTINF:-1,ESPANA NEOX KIDS
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8
+#EXTINF:-1,ESPANA -MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1,ESPANA -ANTENA 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,ESPANA Noticias 6
+http://a3live-lh.akamaihd.net:80/i/lasexta_1@35272/index_2_av-b.m3u8
+#EXTINF:-1,ATRESERIES HD
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net:80/i/nova/geonova_1@379404/index_3_av-p.m3u8
+#EXTINF:-1,Ocho TV (GDL)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_1_av-p.m3u8
+#EXTINF:-1,Foro Tv
+http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,ANTENA3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,AtreSeries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:-1,eitbEuskadi
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
+#EXTINF:-1,Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1,CBN Espanol
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1,Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,Las estrellas
+http://0nlym3x-lh.akamaihd.net:80/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1,ADN40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8
+#EXTINF:-1,AYV
+http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-p.m3u8
+#EXTINF:-1,MTV
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_3_av-b.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
