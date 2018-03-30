@@ -1,17 +1,20 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", America Television|SD|
 http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Latina.|SD|
 http://photocall.tv/latina.php/.m3u8
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|PREMIUN|PERU", Movistar Deportes|SD|
+http://disfruta.club:8000/live/veoplay/veoplaypro/235.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Panamericana|SD|
 http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Peru Magico.|SD|
+http://disfruta.club:8000/live/veoplay/veoplaypro/233.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", TVPE|HD|
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", BHTV|SD|
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", ATV|SD|
-http://bit.ly/ATV-TvNinjaxD?Peru.m3u8
+http://disfruta.club:8000/live/veoplay/veoplaypro/139.ts
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", IPE|SD|
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", DIGITAL|SD|
