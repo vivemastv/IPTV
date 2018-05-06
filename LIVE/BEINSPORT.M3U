@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BEIN SPORT" tvg-name="BEIN SPORT" tvg-logo="" group-title="Spain",
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORT 2" tvg-name="BEIN SPORT 2" tvg-logo="" group-title="Spain"
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
